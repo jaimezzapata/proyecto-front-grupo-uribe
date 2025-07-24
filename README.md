@@ -222,3 +222,40 @@ Si tienes preguntas o necesitas ayuda:
 ---
 
 ⭐ **¡No olvides dar una estrella si te gustó el proyecto!** ⭐
+
+
+
+
+## VALIDACIONES 
+
+- 1 --> Front
+
+    html --> required, type
+    css --> pseudoclases, pseudoelementos, selectores por tipo
+    JS --> expresiones regulares
+
+- 2 --> Back
+
+
+
+- 3 --> Datos 
+
+
+
+
+## Modelos
+
+- Model : hace referencia a todo lo relacionado con los datos "Base de datos" y operacion CRUD
+
+- View : hace referencia a todo lo relacionado con el UX/UI
+
+- Controller : hace referencia a la loguca y comunicacion entre el modelo y la vista
+
+## MVP (Producto Minimo Viable)
+MVP 1 : Validar formulario
+
+-
+
+MVP 2 : Registrar usuario
+
+-
