@@ -222,3 +222,12 @@ Si tienes preguntas o necesitas ayuda:
 ---
 
 ⭐ **¡No olvides dar una estrella si te gustó el proyecto!** ⭐
+
+clase:
+model: hace referencia a todo lo relacionado con los datos "base de datos" y operacion CRUD arreglos-json
+view: hace referencia a todo lo relacionado con ux/ui 
+controller: hace referencia a todo lo relacionado con la logica y la comunicacion entre el modelo y la vista
+
+MVP 1: validar formulario
+MVP 2: registrar usuarios
+
